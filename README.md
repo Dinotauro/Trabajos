@@ -27,7 +27,6 @@ Creo que dividir los problemas en partes pequeñas es la mejor manera de aprende
 ## 📫 Contacto
 
 - Discord: **dinotaur0**
-- Correo: **xavierdominguezdinotauro@gmail.com**
 
 ¿Te gustaría colaborar o darme consejos? ¡Estoy abierto a aprender de la comunidad!
 
